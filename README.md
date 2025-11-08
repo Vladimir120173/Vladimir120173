@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🚀 Portfólio de Dados em Construção
 
-<!--
-**Vladimir120173/Vladimir120173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Seja bem-vindo ao meu perfil.
 
-Here are some ideas to get you started:
+Estou atualmente focado em desenvolver meu portfólio de projetos em **Power BI**, **SQL** e **Python** para demonstrar minhas habilidades em Análise e Engenharia de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Novos projetos estarão disponíveis aqui em breve, incluindo:
+
+* **Projeto 1:** Dashboard de Análise de Vendas (Dataset do Walmart) com foco em Modelagem Estrela e DAX Avançado.
+* **Projeto 2:** Pipeline de Dados E2E (Extração de dados financeiros com Python -> Modelagem em SQL -> Visualização no Power BI).
+* **Artigo (DIO):** [CRIAÇÃO, LLM E RAG – A INTELIGÊNCIA ARTIFICIAL, ATUAL E LÚCIDA]([%7Bcole-o-link-do-seu-artigo-aqui%7D](https://dio.me/articles/criacao-llm-e-rag-a-inteligencia-artificial-atual-e-lucida-5a20162b07ec?utm_source=link&utm_campaign=mgm-criacao-llm-e-rag-a-inteligencia-artificial-atual-e-lucida-5a20162b07ec&utm_medium=article)
+
+Obrigado pela visita e volte em breve!
+
